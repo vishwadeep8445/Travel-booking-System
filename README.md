@@ -13,3 +13,12 @@ It allows users to easily **browse travel options, book tickets, cancel bookings
 ✅ **Booking Records Table** – View active and cancelled bookings  
 ✅ **Responsive & Stylish UI** – Clean design with smooth animations  
 
+---
+
+## 🛠️ Tech Stack  
+
+- **HTML5** – Structure  
+- **CSS3** – Styling & Responsive Design  
+- **JavaScript (Vanilla JS)** – Functionality & Interactivity  
+
+---
